@@ -1,0 +1,17 @@
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\Resources\container2.png
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\Resources\container2_specular.png
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\Shaders\lighting.frag
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\Shaders\shader.frag
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\Shaders\shader.vert
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\LearnOpenTK.pdb
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\OpenTK.dll
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\LearnOpenTK.Common.dll
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\bin\Debug\net461\LearnOpenTK.Common.pdb
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\obj\Debug\net461\4 - Lighting maps.csprojAssemblyReference.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\obj\Debug\net461\4 - Lighting maps.csproj.CoreCompileInputs.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\obj\Debug\net461\4 - Lighting maps.AssemblyInfoInputs.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\obj\Debug\net461\4 - Lighting maps.AssemblyInfo.cs
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\obj\Debug\net461\4 - Lighting maps.csproj.CopyComplete
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\obj\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 2\4 - Lighting maps\obj\Debug\net461\LearnOpenTK.pdb

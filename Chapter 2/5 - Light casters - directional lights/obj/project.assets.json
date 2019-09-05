@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "OpenTK/3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net20/OpenTK.dll": {}
+        },
+        "runtime": {
+          "lib/net20/OpenTK.dll": {}
+        }
+      },
+      "LearnOpenTK.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "OpenTK": "3.0.1"
+        },
+        "compile": {
+          "bin/placeholder/LearnOpenTK.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearnOpenTK.Common.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win7-x86": {
+      "OpenTK/3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net20/OpenTK.dll": {}
+        },
+        "runtime": {
+          "lib/net20/OpenTK.dll": {}
+        }
+      },
+      "LearnOpenTK.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "OpenTK": "3.0.1"
+        },
+        "compile": {
+          "bin/placeholder/LearnOpenTK.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearnOpenTK.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenTK/3.0.1": {
+      "sha512": "V0NytNsN8ClXq6QikD7YXJfwEbexCxGAdfIRqxBJvLgijAZR6FrGiv8jwoma68cU3jLcEC//uxrgSnWa9DVcfA==",
+      "type": "package",
+      "path": "opentk/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/OpenTK.dll.config",
+        "lib/net20/OpenTK.dll",
+        "lib/net20/OpenTK.pdb",
+        "lib/net20/OpenTK.xml",
+        "opentk.3.0.1.nupkg.sha512",
+        "opentk.nuspec"
+      ]
+    },
+    "LearnOpenTK.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Common/Common.csproj",
+      "msbuildProject": "../../Common/Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "LearnOpenTK.Common >= 1.0.0",
+      "OpenTK >= 3.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\s188045\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\s188045\\Source\\Repos\\LearnOpenTK\\Chapter 2\\5 - Light casters - directional lights\\5 - Light casters - directional lights.csproj",
+      "projectName": "LearnOpenTK",
+      "projectPath": "C:\\Users\\s188045\\Source\\Repos\\LearnOpenTK\\Chapter 2\\5 - Light casters - directional lights\\5 - Light casters - directional lights.csproj",
+      "packagesPath": "C:\\Users\\s188045\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\s188045\\Source\\Repos\\LearnOpenTK\\Chapter 2\\5 - Light casters - directional lights\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\s188045\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\Users\\s188045\\Source\\Repos\\LearnOpenTK\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\s188045\\Source\\Repos\\LearnOpenTK\\Common\\Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "OpenTK": {
+            "target": "Package",
+            "version": "[3.0.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

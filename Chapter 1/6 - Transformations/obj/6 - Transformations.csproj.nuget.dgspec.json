@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 1\\6 - Transformations\\6 - Transformations.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 1\\6 - Transformations\\6 - Transformations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 1\\6 - Transformations\\6 - Transformations.csproj",
+        "projectName": "LearnOpenTK",
+        "projectPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 1\\6 - Transformations\\6 - Transformations.csproj",
+        "packagesPath": "C:\\Users\\s188045\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 1\\6 - Transformations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\s188045\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\Common.csproj",
+        "projectName": "LearnOpenTK.Common",
+        "projectPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\s188045\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\s188045\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\bin\Debug\net461\Shaders\shader.frag
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\bin\Debug\net461\Shaders\shader.vert
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\bin\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\bin\Debug\net461\LearnOpenTK.pdb
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\bin\Debug\net461\OpenTK.dll
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\bin\Debug\net461\LearnOpenTK.Common.dll
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\bin\Debug\net461\LearnOpenTK.Common.pdb
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\obj\Debug\net461\3 - Element Buffer Objects.csprojAssemblyReference.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\obj\Debug\net461\3 - Element Buffer Objects.csproj.CoreCompileInputs.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\obj\Debug\net461\3 - Element Buffer Objects.AssemblyInfoInputs.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\obj\Debug\net461\3 - Element Buffer Objects.AssemblyInfo.cs
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\obj\Debug\net461\3 - Element Buffer Objects.csproj.CopyComplete
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\obj\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\3 - Element Buffer Objects\obj\Debug\net461\LearnOpenTK.pdb

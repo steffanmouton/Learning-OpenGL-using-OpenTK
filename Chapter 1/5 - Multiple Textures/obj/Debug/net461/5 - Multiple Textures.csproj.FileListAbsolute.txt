@@ -1,0 +1,16 @@
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\Shaders\shader.frag
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\Shaders\shader.vert
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\Resources\awesomeface.png
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\Resources\container.png
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\LearnOpenTK.pdb
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\OpenTK.dll
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\LearnOpenTK.Common.dll
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\bin\Debug\net461\LearnOpenTK.Common.pdb
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\obj\Debug\net461\5 - Multiple Textures.csprojAssemblyReference.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\obj\Debug\net461\5 - Multiple Textures.csproj.CoreCompileInputs.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\obj\Debug\net461\5 - Multiple Textures.AssemblyInfoInputs.cache
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\obj\Debug\net461\5 - Multiple Textures.AssemblyInfo.cs
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\obj\Debug\net461\5 - Multiple Textures.csproj.CopyComplete
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\obj\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\source\repos\LearnOpenTK\Chapter 1\5 - Multiple Textures\obj\Debug\net461\LearnOpenTK.pdb

@@ -1,0 +1,14 @@
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\Shaders\lighting.frag
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\Shaders\shader.frag
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\Shaders\shader.vert
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\LearnOpenTK.pdb
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\OpenTK.dll
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\LearnOpenTK.Common.dll
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\bin\Debug\net461\LearnOpenTK.Common.pdb
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\obj\Debug\net461\6 - Multiple lights.csproj.CoreCompileInputs.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\obj\Debug\net461\6 - Multiple lights.AssemblyInfoInputs.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\obj\Debug\net461\6 - Multiple lights.AssemblyInfo.cs
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\obj\Debug\net461\6 - Multiple lights.csproj.CopyComplete
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\obj\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 2\6 - Multiple lights\obj\Debug\net461\LearnOpenTK.pdb

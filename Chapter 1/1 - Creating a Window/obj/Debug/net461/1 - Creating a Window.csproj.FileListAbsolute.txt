@@ -1,0 +1,10 @@
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\bin\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\bin\Debug\net461\LearnOpenTK.pdb
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\bin\Debug\net461\OpenTK.dll
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\obj\Debug\net461\1 - Creating a Window.csprojAssemblyReference.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\obj\Debug\net461\1 - Creating a Window.csproj.CoreCompileInputs.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\obj\Debug\net461\1 - Creating a Window.AssemblyInfoInputs.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\obj\Debug\net461\1 - Creating a Window.AssemblyInfo.cs
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\obj\Debug\net461\1 - Creating a Window.csproj.CopyComplete
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\obj\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\1 - Creating a Window\obj\Debug\net461\LearnOpenTK.pdb

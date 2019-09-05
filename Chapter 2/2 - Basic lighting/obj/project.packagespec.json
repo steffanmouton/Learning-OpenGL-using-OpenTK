@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 2\\2 - Basic lighting\\2 - Basic lighting.csproj",
+    "projectName": "LearnOpenTK",
+    "projectPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 2\\2 - Basic lighting\\2 - Basic lighting.csproj",
+    "outputPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Chapter 2\\2 - Basic lighting\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net461"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net461": {
+        "projectReferences": {
+          "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\Common.csproj": {
+            "projectPath": "C:\\Users\\s188045\\source\\repos\\LearnOpenTK\\Common\\Common.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net461": {
+      "dependencies": {
+        "OpenTK": {
+          "target": "Package",
+          "version": "[3.0.1, )"
+        }
+      }
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}

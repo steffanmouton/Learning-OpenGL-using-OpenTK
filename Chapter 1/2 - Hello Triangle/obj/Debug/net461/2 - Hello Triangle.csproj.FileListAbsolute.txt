@@ -1,0 +1,14 @@
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\bin\Debug\net461\Shaders\shader.frag
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\bin\Debug\net461\Shaders\shader.vert
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\bin\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\bin\Debug\net461\LearnOpenTK.pdb
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\bin\Debug\net461\OpenTK.dll
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\bin\Debug\net461\LearnOpenTK.Common.dll
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\bin\Debug\net461\LearnOpenTK.Common.pdb
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\obj\Debug\net461\2 - Hello Triangle.csprojAssemblyReference.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\obj\Debug\net461\2 - Hello Triangle.csproj.CoreCompileInputs.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\obj\Debug\net461\2 - Hello Triangle.AssemblyInfoInputs.cache
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\obj\Debug\net461\2 - Hello Triangle.AssemblyInfo.cs
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\obj\Debug\net461\2 - Hello Triangle.csproj.CopyComplete
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\obj\Debug\net461\LearnOpenTK.exe
+C:\Users\s188045\Source\Repos\LearnOpenTK\Chapter 1\2 - Hello Triangle\obj\Debug\net461\LearnOpenTK.pdb
